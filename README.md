@@ -1,0 +1,2 @@
+# MyMark
+C++ Mark Calculator
